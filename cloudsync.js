@@ -1,1 +1,1 @@
-
+/*TypingMind Cloud Sync placeholder — replaced by push_files*/
